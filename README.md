@@ -32,7 +32,7 @@ To use this Weather App, you'll need to obtain an API key from [OpenWeatherMap](
     <img src="./images/weather.gif" width="400" height="400">
 
 ## Live Demo 🌐
-Live Demo : 
+Live Demo : [Weather App](https://weather-app-five-omega-39.vercel.app/)
 
 ## Contribution 🎯
 If you would like to contribute to this project, please refer to the CONTRIBUTING.md file.
